@@ -8,7 +8,7 @@
 ```
 casting_pouring_robot_dataset/
 │  
-├── data/          # 图像文件夹  
+├── datas/          # 图像文件夹  
 │  
 ├── ann/           # 标注文件夹（voc格式xml文件）  
 │  
