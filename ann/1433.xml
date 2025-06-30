@@ -1,0 +1,110 @@
+<annotation>
+	<folder>datas</folder>
+	<filename>1433.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\datas\1433.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>617</xmin>
+			<ymin>492</ymin>
+			<xmax>695</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1659</xmin>
+			<ymin>409</ymin>
+			<xmax>1736</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1650</xmin>
+			<ymin>62</ymin>
+			<xmax>1691</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1675</xmin>
+			<ymin>78</ymin>
+			<xmax>1713</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1692</xmin>
+			<ymin>96</ymin>
+			<xmax>1737</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1686</xmin>
+			<ymin>55</ymin>
+			<xmax>1725</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1715</xmin>
+			<ymin>73</ymin>
+			<xmax>1758</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1746</xmin>
+			<ymin>62</ymin>
+			<xmax>1791</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>

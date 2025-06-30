@@ -1,0 +1,38 @@
+<annotation>
+	<folder>datas</folder>
+	<filename>0948.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\datas\0948.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>79</ymin>
+			<xmax>633</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>913</xmin>
+			<ymin>411</ymin>
+			<xmax>1016</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+</annotation>

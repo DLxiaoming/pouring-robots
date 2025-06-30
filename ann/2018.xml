@@ -1,0 +1,50 @@
+<annotation>
+	<folder>datas</folder>
+	<filename>2018.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\datas\2018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>148</ymin>
+			<xmax>123</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>373</xmin>
+			<ymin>45</ymin>
+			<xmax>442</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1165</xmin>
+			<ymin>334</ymin>
+			<xmax>1209</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

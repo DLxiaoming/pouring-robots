@@ -1,0 +1,62 @@
+<annotation>
+	<folder>datas</folder>
+	<filename>0165.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\datas\0165.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>43</ymin>
+			<xmax>257</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>240</ymin>
+			<xmax>417</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>519</xmin>
+			<ymin>582</ymin>
+			<xmax>615</xmax>
+			<ymax>673</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>803</xmin>
+			<ymin>1070</ymin>
+			<xmax>943</xmax>
+			<ymax>1201</ymax>
+		</bndbox>
+	</object>
+</annotation>

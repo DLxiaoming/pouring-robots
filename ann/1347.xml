@@ -1,0 +1,98 @@
+<annotation>
+	<folder>datas</folder>
+	<filename>1347.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\datas\1347.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2080</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>4167</ymin>
+			<xmax>311</xmax>
+			<ymax>4304</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1581</xmin>
+			<ymin>4140</ymin>
+			<xmax>1732</xmax>
+			<ymax>4283</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1957</xmin>
+			<ymin>2026</ymin>
+			<xmax>2060</xmax>
+			<ymax>2063</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>997</xmin>
+			<ymin>2182</ymin>
+			<xmax>1077</xmax>
+			<ymax>2205</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>988</xmin>
+			<ymin>2355</ymin>
+			<xmax>1087</xmax>
+			<ymax>2393</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymin>2537</ymin>
+			<xmax>1090</xmax>
+			<ymax>2586</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1032</xmin>
+			<ymin>2825</ymin>
+			<xmax>1166</xmax>
+			<ymax>2895</ymax>
+		</bndbox>
+	</object>
+</annotation>

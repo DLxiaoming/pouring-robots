@@ -1,0 +1,98 @@
+<annotation>
+	<folder>datas</folder>
+	<filename>0879.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\datas\0879.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1186</ymin>
+			<xmax>19</xmax>
+			<ymax>1211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>969</ymin>
+			<xmax>335</xmax>
+			<ymax>988</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>897</xmin>
+			<ymin>905</ymin>
+			<xmax>949</xmax>
+			<ymax>930</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>752</xmin>
+			<ymin>1081</ymin>
+			<xmax>821</xmax>
+			<ymax>1115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>807</xmin>
+			<ymin>865</ymin>
+			<xmax>836</xmax>
+			<ymax>879</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>885</xmin>
+			<ymin>885</ymin>
+			<xmax>910</xmax>
+			<ymax>901</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>788</xmin>
+			<ymin>869</ymin>
+			<xmax>805</xmax>
+			<ymax>880</ymax>
+		</bndbox>
+	</object>
+</annotation>

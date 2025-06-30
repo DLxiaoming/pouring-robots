@@ -1,0 +1,98 @@
+<annotation>
+	<folder>datas</folder>
+	<filename>1472.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\datas\1472.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>653</ymin>
+			<xmax>447</xmax>
+			<ymax>728</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>696</xmin>
+			<ymin>199</ymin>
+			<xmax>771</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1570</xmin>
+			<ymin>377</ymin>
+			<xmax>1666</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1520</xmin>
+			<ymin>74</ymin>
+			<xmax>1589</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1205</xmin>
+			<ymin>12</ymin>
+			<xmax>1252</xmax>
+			<ymax>29</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1274</xmin>
+			<ymin>27</ymin>
+			<xmax>1323</xmax>
+			<ymax>41</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1233</xmin>
+			<ymin>31</ymin>
+			<xmax>1275</xmax>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+</annotation>

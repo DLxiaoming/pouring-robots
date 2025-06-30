@@ -1,0 +1,98 @@
+<annotation>
+	<folder>datas</folder>
+	<filename>0249.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\datas\0249.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1052</xmin>
+			<ymin>866</ymin>
+			<xmax>1080</xmax>
+			<ymax>921</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>754</xmin>
+			<ymin>1369</ymin>
+			<xmax>866</xmax>
+			<ymax>1466</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>562</ymin>
+			<xmax>391</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>303</ymin>
+			<xmax>326</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>294</ymin>
+			<xmax>526</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>666</xmin>
+			<ymin>281</ymin>
+			<xmax>714</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>901</xmin>
+			<ymin>280</ymin>
+			<xmax>956</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

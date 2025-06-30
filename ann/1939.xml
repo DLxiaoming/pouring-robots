@@ -1,0 +1,50 @@
+<annotation>
+	<folder>datas</folder>
+	<filename>1939.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\datas\1939.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>2080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>749</xmin>
+			<ymin>872</ymin>
+			<xmax>853</xmax>
+			<ymax>1015</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1091</xmin>
+			<ymin>606</ymin>
+			<xmax>1201</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3334</xmin>
+			<ymin>261</ymin>
+			<xmax>3415</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>

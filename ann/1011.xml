@@ -1,0 +1,98 @@
+<annotation>
+	<folder>datas</folder>
+	<filename>1011.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\datas\1011.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2080</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1055</xmin>
+			<ymin>933</ymin>
+			<xmax>1227</xmax>
+			<ymax>981</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>763</xmin>
+			<ymin>615</ymin>
+			<xmax>849</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>818</xmin>
+			<ymin>633</ymin>
+			<xmax>903</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>870</xmin>
+			<ymin>650</ymin>
+			<xmax>962</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>832</xmin>
+			<ymin>599</ymin>
+			<xmax>914</xmax>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>900</xmin>
+			<ymin>621</ymin>
+			<xmax>989</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>950</xmin>
+			<ymin>596</ymin>
+			<xmax>1042</xmax>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+</annotation>

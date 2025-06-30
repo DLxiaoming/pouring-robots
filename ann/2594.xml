@@ -1,0 +1,50 @@
+<annotation>
+	<folder>datas</folder>
+	<filename>2594.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\datas\2594.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1170</xmin>
+			<ymin>784</ymin>
+			<xmax>1317</xmax>
+			<ymax>864</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1140</xmin>
+			<ymin>395</ymin>
+			<xmax>1258</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1061</xmin>
+			<ymin>125</ymin>
+			<xmax>1157</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

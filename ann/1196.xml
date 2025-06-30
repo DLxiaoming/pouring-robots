@@ -1,0 +1,98 @@
+<annotation>
+	<folder>datas</folder>
+	<filename>1196.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\datas\1196.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>724</ymin>
+			<xmax>446</xmax>
+			<ymax>796</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>686</xmin>
+			<ymin>282</ymin>
+			<xmax>757</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1531</xmin>
+			<ymin>445</ymin>
+			<xmax>1621</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1483</xmin>
+			<ymin>158</ymin>
+			<xmax>1550</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1185</xmin>
+			<ymin>104</ymin>
+			<xmax>1222</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1209</xmin>
+			<ymin>120</ymin>
+			<xmax>1242</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pouring hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1250</xmin>
+			<ymin>115</ymin>
+			<xmax>1289</xmax>
+			<ymax>127</ymax>
+		</bndbox>
+	</object>
+</annotation>
